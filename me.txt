@@ -3,4 +3,6 @@ hello
 
 print("hello")
 
-kuch ny bas kuch na kuch add karna hai aur kyaa 
+chalo yaha bhi edit kr lete hai 
+kuch na kuch add kiya ja raha hai 
+>>>>>>> adb2d7b4244e6a37c6de2e03261f9df800626476
