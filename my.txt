@@ -1,12 +1,2 @@
-none
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-print("ye hai dasva line")
+Hello 
+This is Sia
